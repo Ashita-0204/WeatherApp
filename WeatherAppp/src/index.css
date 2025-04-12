@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Condensed+One&display=swap');
+ 
+ *{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Special Gothic Condensed One", sans-serif;
+ }
+
+ .app{
+  min-height: 100vh;
+  display: grid;
+  background: url('https://images.pexels.com/photos/544249/pexels-photo-544249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  background-position: center;
+}
